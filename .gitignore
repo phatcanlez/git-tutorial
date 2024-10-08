@@ -1,0 +1,4 @@
+.env
+abc // ignore a folde named abc
+abc/*.md // ignore all .md files in abc folder
+abc/**/*.md // ignore all .md files in abc folder and its subfolders
